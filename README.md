@@ -24,9 +24,9 @@
 ### 🔗 **Connect with me**
 ---
 
-image.png https://instagram.com/mohamad_el_mir_al_ayoubi?igshid=NGExMmI2YTkyZg==
+*Instagram* https://instagram.com/mohamad_el_mir_al_ayoubi?igshid=NGExMmI2YTkyZg==
 
-image.png https://www.facebook.com/mohamad.alayoubi.79?mibextid=ZbWKwL
+*Facebook* https://www.facebook.com/mohamad.alayoubi.79?mibextid=ZbWKwL
 ---
 ---
 ---
