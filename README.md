@@ -1,4 +1,3 @@
-# Gifs
 
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <br>
@@ -6,7 +5,7 @@
 <br>
 
 
-## ***Mohamad Al-Mir Al-Ayoubi***  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# ***Mohamad Al-Mir Al-Ayoubi***  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 📅 07/04/2001
 
 📱 +961 78 894 228
@@ -19,7 +18,7 @@
 ---
 ---
 
-### 📈 **Abilities**
+## 📈 **Abilities**
 ---
 
 - [x] Team work
@@ -29,7 +28,7 @@
 ---
 ---
 
-#### 🔗 **Connect with me**
+### 🔗 **Connect with me**
 ---
 
 *Instagram* https://instagram.com/mohamad_el_mir_al_ayoubi?igshid=NGExMmI2YTkyZg==
