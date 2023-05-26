@@ -6,7 +6,7 @@
 
 
 # ***Mohamad Al-Mir Al-Ayoubi***  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-📅 07/04/2001
+📅 07 April 2001
 
 📱 +961 78 894 228
 
